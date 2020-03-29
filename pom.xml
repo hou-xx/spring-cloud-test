@@ -12,7 +12,7 @@
         <module>euraka-server</module>
         <module>producer</module>
         <module>comsumers</module>
-        <module>spring-cloud-common</module>
+        <module>common</module>
     </modules>
     <!--定义springboot版本号-->
     <parent>
